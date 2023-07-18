@@ -13,5 +13,4 @@ The data was gotten from the Power BI sample data which is financial data. It sp
 
 Cleaning was not done as it came as cleaned data. However, the data types were changed to avoid errors in aggregating. 
 
-https:/github.com/assets/images/Power Query.png
-
+https://github.com/Adesoyin/PowerBI-New-Card-Visual/blob/main/Power%20Query.png
