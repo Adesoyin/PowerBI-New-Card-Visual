@@ -1,5 +1,5 @@
 # PowerBI-New-Card-Visual
-This give an explanation of the new feature released by Power BI for the month of July 2023. 
+This gives an explanation of the new feature released by Power BI for the month of July 2023. 
 
 **Overview**
 
@@ -13,4 +13,5 @@ The data was gotten from the Power BI sample data which is financial data. It sp
 
 Cleaning was not done as it came as cleaned data. However, the data types were changed to avoid errors in aggregating. 
 
-/assets/images/Power query.png
+https:/github.com/assets/images/Power Query.png
+
